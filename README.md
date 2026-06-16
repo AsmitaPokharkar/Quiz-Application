@@ -13,13 +13,13 @@ Features :
 8. Restart Quiz Option
 9. Night Mode Toggle
 10. Responsive and Attractive UI
-    
-🛠️ Technologies Used :
+
+Technologies Used :
 HTML5
 CSS3
 JavaScript (Vanilla JS)
 
-📂 Project Structure
+ Project Structure
 Quiz-Application/
 │
 ├── index.html
@@ -27,12 +27,12 @@ Quiz-Application/
 ├── script.js
 └── README.md
 
-🚀 How to Run the Project :
+How to Run the Project :
 Download or clone the repository.
 Open the project folder.
 Run the index.html file in any web browser.
 
-💡 About the Project :
+About the Project :
 This project was created as a beginner-level web development project for Semester 2 in Computer Science Engineering. The main goal of this project was to understand the basics of frontend development and JavaScript programming concepts.
 
 While building this project, I learned:
@@ -44,7 +44,7 @@ Local Storage
 UI Design using CSS
 Interactive Web Application Development
 
-📸 Functionalities Implemented :
+Functionalities Implemented :
 ✅ Login System
 Users can enter their username before starting the quiz.
 ✅ Quiz Categories
@@ -56,7 +56,7 @@ Scores are stored using browser local storage and displayed in leaderboard forma
 ✅ Night Mode
 A night mode feature is added for better user experience.
 
-🔮 Future scope : 
+Future scope : 
 Add more quiz categories
 Add database connectivity
 Add user authentication
