@@ -1,6 +1,6 @@
 # Quiz-Application
 
-A beginner-friendly Quiz Application developed using HTML, CSS, and JavaScript , made as a Seme 2  mini project. This project helps users test their knowledge through interactive quizzes with multiple categories, timer functionality, score tracking, leaderboard system, and night mode support.
+A beginner-friendly Quiz Application developed using HTML, CSS, and JavaScript , made as a Sem 2  mini project. This project helps users test their knowledge through interactive quizzes with multiple categories, timer functionality, score tracking, leaderboard system, and night mode support.
 
 Features :
 1. User Login System
